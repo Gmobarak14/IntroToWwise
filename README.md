@@ -1,6 +1,6 @@
-### Wwise: Getting Started 
+# Wwise: Getting Started 
 ## Gibran Mobarak 
-# READ THE GETTING STARTED GUIDE HERE
+### READ THE GETTING STARTED GUIDE HERE
 https://docs.google.com/document/d/18RE7cIN3oHpVdyrC5XYgJ2bLbIDTsE478nKQ4C86m4w/edit?usp=sharing
 
 Sources: 
