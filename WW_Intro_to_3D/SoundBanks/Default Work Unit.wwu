@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7A274D41-F41F-46BB-80C6-5366534D2EF2}" SchemaVersion="119">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{7A274D41-F41F-46BB-80C6-5366534D2EF2}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main1" ID="{DDB6E0CC-86A9-40D2-BC30-EAAA773046FF}">
+					<ObjectInclusionList>
+						<ObjectRef Name="StopEnemyRumble" ID="{AC2AA903-756E-40C8-8FC7-8475D37347DD}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FIrePlay" ID="{D5EAD047-FCF2-414F-AB32-A89CA8C8C9DF}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GruntPlay" ID="{BABE1B9E-06E3-43D1-951F-C0C04D1FFB5A}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EnemyDead" ID="{2C28F1BD-71EA-4864-A652-9466EC4FDCD3}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="GameMusicEvent" ID="{C7EF6CA1-3536-49CA-BAEA-7689A1DFF0B4}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FootPlay" ID="{16521E20-3D59-4C31-A387-933AD0BDB1C1}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="EnemyRumble" ID="{0ECF6630-F882-4C43-BEEA-F65E60A7F1E7}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="FPlay" ID="{D910911F-F3BE-4F11-B6CF-B6F78C815587}" WorkUnitID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

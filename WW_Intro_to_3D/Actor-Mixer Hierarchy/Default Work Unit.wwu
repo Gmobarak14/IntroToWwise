@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}" SchemaVersion="119">
+	<AudioObjects>
+		<WorkUnit Name="Default Work Unit" ID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}" PersistMode="Standalone">
+			<ChildrenList>
+				<RandomSequenceContainer Name="StepSilence" ID="{4E58C25E-4B7A-48E4-89D5-73155723BA0D}" ShortID="909023866">
+					<PropertyList>
+						<Property Name="PlayMechanismStepOrContinuous" Type="int16" Value="0"/>
+						<Property Name="RandomOrSequence" Type="int16" Value="0"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>2</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<RandomSequenceContainer Name="Footsteps" ID="{C4DDF406-6D65-41C3-9937-D107940FBA89}" ShortID="788923571">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Foot1" ID="{2E6008E4-8A71-4825-9AC8-11169849323A}" ShortID="112081056">
+									<PropertyList>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{C9CB7385-6E84-46E3-82DC-1730F27C6052}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="202"/>
+															<Property Name="Min" Type="Real64" Value="-379"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+										<Property Name="Volume" Type="Real64">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{00EEF7A9-D0AA-420F-8C85-A16D31E2AC5E}"/>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{0ADAA37C-F430-48A9-B893-2D7C2DF6D445}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="7.92097322996336"/>
+												<Property Name="TrimEnd" Type="Real64" Value="8.51743929359824"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="453989798"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{0ADAA37C-F430-48A9-B893-2D7C2DF6D445}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Foot2" ID="{C29FC280-86FB-4E22-9D1C-34864E504497}" ShortID="258009182">
+									<PropertyList>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{BBFF69F5-26A7-4EE1-8538-4F2AB591EE50}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="202"/>
+															<Property Name="Min" Type="Real64" Value="-379"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{ADF45827-2677-4564-B2A2-AEB39E4B964A}">
+											<PropertyList>
+												<Property Name="FadeOutDuration" Type="Real64" Value="0.413549508101717"/>
+												<Property Name="LoopEnd" Type="Real64" Value="20.963973084412"/>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="20.963973084412"/>
+												<Property Name="TrimEnd" Type="Real64" Value="21.8381317084214"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="247203714"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{ADF45827-2677-4564-B2A2-AEB39E4B964A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Foot3" ID="{7EB9FB05-3588-4E7D-A903-A3E947E700D0}" ShortID="529709711">
+									<PropertyList>
+										<Property Name="Pitch" Type="int32">
+											<ModifierList>
+												<ModifierInfo>
+													<Modifier Name="" ID="{77DF6E4A-045C-4DD5-8F20-A7E5A339826A}">
+														<PropertyList>
+															<Property Name="Enabled" Type="bool" Value="True"/>
+															<Property Name="Max" Type="Real64" Value="202"/>
+															<Property Name="Min" Type="Real64" Value="-379"/>
+														</PropertyList>
+													</Modifier>
+												</ModifierInfo>
+											</ModifierList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{22BC0C5D-442B-482C-BBDA-F57014BE637B}">
+											<PropertyList>
+												<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+												<Property Name="TrimBegin" Type="Real64" Value="9.05823437724308"/>
+												<Property Name="TrimEnd" Type="Real64" Value="9.65271179513931"/>
+											</PropertyList>
+											<Language>SFX</Language>
+											<AudioFile>FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="864546099"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ActiveSourceList>
+										<ActiveSource Name="FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0" ID="{22BC0C5D-442B-482C-BBDA-F57014BE637B}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists>
+								<ObjectList Name="Playlist">
+									<Reference>
+										<ObjectRef Name="Foot2" ID="{C29FC280-86FB-4E22-9D1C-34864E504497}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+									</Reference>
+									<Reference>
+										<ObjectRef Name="Foot1" ID="{2E6008E4-8A71-4825-9AC8-11169849323A}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+									</Reference>
+								</ObjectList>
+							</ObjectLists>
+						</RandomSequenceContainer>
+						<Sound Name="Silence" ID="{9A417A84-5FFA-40F9-89DA-772C260CE057}" ShortID="511092777">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<SourcePlugin Name="Silence" ID="{920B7E38-6FC9-4247-AA46-FE3249149D82}" ShortID="820159814" PluginName="Wwise Silence" CompanyID="0" PluginID="101">
+									<PropertyList>
+										<Property Name="LengthMax" Type="Real32" Value="0.2"/>
+										<Property Name="LengthMin" Type="Real32" Value="-0.2"/>
+									</PropertyList>
+									<Language>SFX</Language>
+								</SourcePlugin>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="Silence" ID="{920B7E38-6FC9-4247-AA46-FE3249149D82}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="Playlist">
+							<Reference>
+								<ObjectRef Name="Footsteps" ID="{C4DDF406-6D65-41C3-9937-D107940FBA89}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+							</Reference>
+							<Reference>
+								<ObjectRef Name="Silence" ID="{9A417A84-5FFA-40F9-89DA-772C260CE057}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+				</RandomSequenceContainer>
+				<Sound Name="EnemyDead" ID="{190DAF8D-C2C0-42D6-9CA1-18C554C1962E}" ShortID="1058015876">
+					<PropertyList>
+						<Property Name="Highpass" Type="int16">
+							<ValueList>
+								<Value>62</Value>
+							</ValueList>
+						</Property>
+						<Property Name="MakeUpGain" Type="Real64">
+							<ValueList>
+								<Value>10</Value>
+							</ValueList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>11</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{9CA21162-2586-4932-A8C8-A821F815FA22}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.156882815474029"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.713652827675523"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="10.5366416482708"/>
+								<Property Name="TrimEnd" Type="Real64" Value="12.1783800455482"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="117676321"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="Effects">
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{4463F7A0-DB4B-4BF3-AA8D-25260059F3F9}" ShortID="291499675">
+										<ReferenceList>
+											<Reference Name="Effect" PluginName="Wwise Delay" CompanyID="0" PluginID="106" PluginType="3">
+												<ObjectRef Name="New_Delay" ID="{956F7BDC-EA2A-4DD6-971E-12D197B90CDD}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+											</Reference>
+										</ReferenceList>
+									</EffectSlot>
+								</Local>
+							</Reference>
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{23467688-D22C-4EEF-B0B4-B4CEBBA64EFD}" ShortID="946332460">
+										<ReferenceList>
+											<Reference Name="Effect" PluginName="Wwise RoomVerb" CompanyID="0" PluginID="118" PluginType="3">
+												<ObjectRef Name="Holy" ID="{CC7B8638-C670-4AD5-B3FB-331EA81037F6}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+											</Reference>
+										</ReferenceList>
+									</EffectSlot>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+					<ActiveSourceList>
+						<ActiveSource Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{9CA21162-2586-4932-A8C8-A821F815FA22}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="Laser" ID="{A9F0F240-52A2-41BF-8108-4943CD8A989E}" ShortID="782863053">
+					<PropertyList>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>170</Value>
+							</ValueList>
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{92F62E57-A2A2-49EF-887D-2483F06DAD74}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="278"/>
+											<Property Name="Min" Type="Real64" Value="-682"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-11</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="LASRImpt_Alien Weapon Space Laser Blast Wobbly_PSE_GEN_ei1Kr" ID="{D0037E11-4F3B-414C-B5F1-3530C5EB9B51}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.00784105960264901"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.0940927152317881"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="0.397280353200883"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>LASRImpt_Alien Weapon Space Laser Blast Wobbly_PSE_GEN_ei1Kr.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="712715930"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="Effects">
+							<Reference>
+								<Local>
+									<EffectSlot Name="" ID="{1DA08C02-F7B2-48C8-B3A5-A80680A3292F}" ShortID="859070122">
+										<ReferenceList>
+											<Reference Name="Effect" PluginName="Wwise Flanger" CompanyID="0" PluginID="125" PluginType="3">
+												<ObjectRef Name="New_Flanger" ID="{3F1F1C1F-9A93-482D-9AFC-5CEB11807C05}" WorkUnitID="{E8613F7D-BAD3-45CD-A3ED-505576F31277}"/>
+											</Reference>
+										</ReferenceList>
+									</EffectSlot>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+					<ActiveSourceList>
+						<ActiveSource Name="LASRImpt_Alien Weapon Space Laser Blast Wobbly_PSE_GEN_ei1Kr" ID="{D0037E11-4F3B-414C-B5F1-3530C5EB9B51}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<Sound Name="FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq" ID="{572AF4E1-56F0-47F8-A880-063A5642963D}" ShortID="1030908299">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{F856A534-9B56-435F-95B0-FB2C36E8D3CD}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="25"/>
+											<Property Name="Min" Type="Real64" Value="-25"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="65"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq" ID="{D3E8375D-6447-4E2C-99E4-BFE21F7A63E8}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="0.176308489762967"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="0.470155972701244"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimBegin" Type="Real64" Value="8.74506086296072"/>
+								<Property Name="TrimEnd" Type="Real64" Value="11.0666313465784"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="521128878"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq" ID="{D3E8375D-6447-4E2C-99E4-BFE21F7A63E8}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+				<RandomSequenceContainer Name="Grunts" ID="{87A96225-E136-4FE5-A215-48D4867861CA}" ShortID="526653095">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+						<Property Name="Pitch" Type="int32">
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{A59F806B-974F-46BE-AE8D-DD8CE1F48474}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="25"/>
+											<Property Name="Min" Type="Real64" Value="-76"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="25"/>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-7</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn" ID="{BE52EFFE-88BD-43D3-8722-C53A8D1BD495}" ShortID="1028299558">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn" ID="{DE239F69-7C35-4DD0-8EB5-39889AB58D06}">
+									<PropertyList>
+										<Property Name="FadeOutDuration" Type="Real64" Value="0.173562913907285"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimEnd" Type="Real64" Value="0.35998233995585"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="650123599"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn" ID="{DE239F69-7C35-4DD0-8EB5-39889AB58D06}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY" ID="{1327DBD9-436D-4834-9E68-D91892D18EEF}" ShortID="384963762">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY" ID="{6F516BDA-E560-4763-98E9-F8DCF2B00A60}">
+									<PropertyList>
+										<Property Name="FadeOutDuration" Type="Real64" Value="0.165250919793966"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimEnd" Type="Real64" Value="0.565403973509934"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="362744428"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY" ID="{6F516BDA-E560-4763-98E9-F8DCF2B00A60}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ" ID="{8E788453-B67A-4F39-9DB0-FDC1D36FB1D6}" ShortID="959658764">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ" ID="{3EF230B4-AAF1-4D1E-A1C5-995EA5D5EC80}">
+									<PropertyList>
+										<Property Name="FadeInDuration" Type="Real64" Value="0.0162472406181015"/>
+										<Property Name="FadeOutDuration" Type="Real64" Value="0.160306107431935"/>
+										<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+										<Property Name="TrimEnd" Type="Real64" Value="0.450590139808683"/>
+									</PropertyList>
+									<Language>SFX</Language>
+									<AudioFile>VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="90724998"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ActiveSourceList>
+								<ActiveSource Name="VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ" ID="{3EF230B4-AAF1-4D1E-A1C5-995EA5D5EC80}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+				</RandomSequenceContainer>
+				<Sound Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{0F30F9A3-7F92-431C-99F5-9C123B76B907}" ShortID="528570535">
+					<PropertyList>
+						<Property Name="3DSpatialization" Type="int16" Value="1"/>
+						<Property Name="IsLoopingEnabled" Type="bool" Value="True"/>
+						<Property Name="SpeakerPanning3DSpatializationMix" Type="int32" Value="85"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Attenuation">
+							<ObjectRef Name="New Attenuation" ID="{1B6CB7BA-21D3-4F0A-8C92-0EECE9E81ADC}" WorkUnitID="{B27DD018-24F8-466E-A1BE-ABF8B9452F2D}"/>
+						</Reference>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A7803290-72C4-43FE-BF42-64AF4C135D8C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D2522CE4-7F8E-489B-B4AA-897FA3E36989}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<AudioFileSource Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{D6B86AD6-4729-4B1A-861B-B7DA2931E03E}">
+							<PropertyList>
+								<Property Name="FadeInDuration" Type="Real64" Value="3.41728918322296"/>
+								<Property Name="FadeOutDuration" Type="Real64" Value="2.27819278881531"/>
+								<Property Name="OverrideWavLoop" Type="bool" Value="True"/>
+								<Property Name="TrimEnd" Type="Real64" Value="55.3885621780721"/>
+							</PropertyList>
+							<Language>SFX</Language>
+							<AudioFile>MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP.wav</AudioFile>
+							<MediaIDList>
+								<MediaID ID="708493119"/>
+							</MediaIDList>
+						</AudioFileSource>
+					</ChildrenList>
+					<ActiveSourceList>
+						<ActiveSource Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{D6B86AD6-4729-4B1A-861B-B7DA2931E03E}" Platform="Linked"/>
+					</ActiveSourceList>
+				</Sound>
+			</ChildrenList>
+		</WorkUnit>
+	</AudioObjects>
+</WwiseDocument>

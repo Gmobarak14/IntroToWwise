@@ -1,0 +1,40 @@
+Event	ID	Name			Wwise Object Path	Notes
+	74360668	StopEnemyRumble			\Default Work Unit\StopEnemyRumble	
+	595562731	FPlay			\Default Work Unit\FPlay	
+	1187594852	EnemyRumble			\Default Work Unit\EnemyRumble	
+	1539692347	GruntPlay			\Default Work Unit\GruntPlay	
+	2330771387	FIrePlay			\Default Work Unit\FIrePlay	
+	3035340983	FootPlay			\Default Work Unit\FootPlay	
+	3203495348	GameMusicEvent			\Default Work Unit\GameMusicEvent	
+	3384279333	EnemyDead			\Default Work Unit\EnemyDead	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	267517120	Music_RTPC			\Default Work Unit\Music_RTPC	
+
+Effect plug-ins	ID	Name	Type				Notes
+	196835669	New_Delay	Wwise Delay			
+	1668731267	New_Flanger	Wwise Flanger			
+	3164629247	Holy	Wwise RoomVerb			
+
+Source plug-ins	ID	Name	Type		Wwise Object Path	Notes
+	820159814	Silence	Wwise Silence		\Actor-Mixer Hierarchy\Default Work Unit\StepSilence\Silence\Silence	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	5501407	video game music  1-Still Sky Pad	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  1-Still Sky Pad_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  1-Still Sky Pad		3175296
+	67167478	video game music  5-Wurli Soft Piano	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  5-Wurli Soft Piano_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  5-Wurli Soft Piano		3175296
+	90724998	VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ_C016D5B5.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grunts\VOXEfrt_Male 02 Grunt Emote 26_PSE_SR-COM_Ig0BZ		43352
+	117676321	EnemyDead	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP_036E4FDF.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDead		315308
+	247203714	Foot2	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0_45FB0121.wem		\Actor-Mixer Hierarchy\Default Work Unit\StepSilence\Footsteps\Foot2		84014
+	322520669	video game music  A-Reverb	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  A-Reverb_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  A-Reverb		3175296
+	362744428	VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY_BD3CF4A2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grunts\VOXEfrt_Male 02 Grunt Emote 15_PSE_SR-COM_yFoIY		54374
+	435029786	video game music  B-Delay	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  B-Delay_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  B-Delay		3175296
+	453989798	Foot1	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0_211BDCF4.wem		\Actor-Mixer Hierarchy\Default Work Unit\StepSilence\Footsteps\Foot1		57356
+	521128878	FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq_7BF205E0.wem		\Actor-Mixer Hierarchy\Default Work Unit\FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq		445836
+	578674546	video game music  2-C78 Core Kit	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  2-C78 Core Kit_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  2-C78 Core Kit		3175296
+	619563682	video game music  4-Vintage Chorus Bass	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  4-Vintage Chorus Bass_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  4-Vintage Chorus Bass		3175296
+	650123599	VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn_C7B36C04.wem		\Actor-Mixer Hierarchy\Default Work Unit\Grunts\VOXEfrt_Male 02 Grunt Emote 09_PSE_SR-COM_jwNqn		34654
+	708493119	MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP_97DB92F5.wem		\Actor-Mixer Hierarchy\Default Work Unit\MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP		10634700
+	712715930	Laser	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\LASRImpt_Alien Weapon Space Laser Blast Wobbly_PSE_GEN_ei1Kr_3DEE0F79.wem		\Actor-Mixer Hierarchy\Default Work Unit\Laser		76372
+	864546099	Foot3	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\FOLYFeet_Footsteps Asphalt 02_PSE_OE_DfXo0_BDF384E5.wem		\Actor-Mixer Hierarchy\Default Work Unit\StepSilence\Footsteps\Foot3		57166
+	1049098936	video game music  3-Formaggio 2 Kit	Y:\IntroTo3D\WW_Intro_to_3D\.cache\Windows\SFX\video game music  3-Formaggio 2 Kit_FBC78EF0.wem		\Interactive Music Hierarchy\Default Work Unit\MUSIC_PLAYLIST\Stems\video game music  3-Formaggio 2 Kit		3175296
+

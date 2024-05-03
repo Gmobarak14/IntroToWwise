@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="119">
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\WW_Intro_to_3D.wproj" DateLow="1714660116" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\WW_Intro_to_3D.crossover.wsettings" DateLow="1714742963" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Virtual Acoustics\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Triggers\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Switches\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\States\Default Work Unit.wwu" DateLow="1714691331" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1714698592" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\SoundBanks\Default Work Unit.wwu" DateLow="1714698592" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Queries\Factory Queries.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Queries\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Presets\Factory Spatial Audio.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Presets\Factory Reflect.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Presets\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Modulators\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Mixing Sessions\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Metadata\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1714748110" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Game Parameters\Default Work Unit.wwu" DateLow="1714697774" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Events\Default Work Unit.wwu" DateLow="1714698687" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory Reflect.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory McDSP Effects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory Mastering Suite.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Filters.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Dynamics.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Delay.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Box Modeler.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory Effects.wwu" DateLow="1714691331" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Factory Auro Headphone.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Effects\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Conversion Settings\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Control Surface Sessions\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Audio Devices\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Attenuations\Default Work Unit.wwu" DateLow="1714689370" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1714748357" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\WW_Intro_to_3D.wproj" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\WW_Intro_to_3D.crossover.wsettings" DateLow="1714657440" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Virtual Acoustics\Factory Acoustic Textures.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Virtual Acoustics\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Triggers\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Switches\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\States\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\SoundBanks\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Queries\Factory Queries.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Queries\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Presets\Factory Spatial Audio.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Presets\Factory Reflect.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Presets\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Modulators\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Mixing Sessions\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Metadata\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Game Parameters\Factory Soundseed Air Game Syncs.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Game Parameters\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Events\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory Reflect.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory McDSP Effects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory Mastering Suite.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Filters.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Dynamics.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Delay.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory iZotope Box Modeler.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory Effects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Factory Auro Headphone.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Effects\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Conversion Settings\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Control Surface Sessions\Default Work Unit.wwu" DateLow="1714657439" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Audio Devices\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Attenuations\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Factory Soundseed Air Objects.wwu" DateLow="1714657438" DateHigh="0"/>
+	<ValidationCacheItem File="Y:\Documents\GitHub\Berklee-MTEC_340\Examples\IntroTo3D\WW_Intro_to_3D\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1714657438" DateHigh="0"/>
+</ValidationCache>

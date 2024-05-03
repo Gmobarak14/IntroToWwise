@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" SchemaVersion="119">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{378C2D7F-6BCD-4462-8181-51178A63F31F}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="FootPlay" ID="{16521E20-3D59-4C31-A387-933AD0BDB1C1}">
+					<ChildrenList>
+						<Action Name="" ID="{A9D03692-BEED-4147-B5D6-DC6708751781}" ShortID="956771735">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="StepSilence" ID="{4E58C25E-4B7A-48E4-89D5-73155723BA0D}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyRumble" ID="{0ECF6630-F882-4C43-BEEA-F65E60A7F1E7}">
+					<ChildrenList>
+						<Action Name="" ID="{20FBE665-296E-4E65-8098-5E665F94D2AC}" ShortID="137928774">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{0F30F9A3-7F92-431C-99F5-9C123B76B907}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyDead" ID="{2C28F1BD-71EA-4864-A652-9466EC4FDCD3}">
+					<ChildrenList>
+						<Action Name="" ID="{455D4280-39DA-4586-91B1-E9A0BEEFD1CB}" ShortID="151629759">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyDead" ID="{190DAF8D-C2C0-42D6-9CA1-18C554C1962E}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StopEnemyRumble" ID="{AC2AA903-756E-40C8-8FC7-8475D37347DD}">
+					<ChildrenList>
+						<Action Name="" ID="{BCB35F3A-1229-4EA9-B958-C838B66DDD06}" ShortID="157823203">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+								<Property Name="FadeTime" Type="Real64" Value="0.2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MOTRComb_Boiler Deep Rumble Gurgle Metallic Vibration_PSE_OCX_VuyhP" ID="{0F30F9A3-7F92-431C-99F5-9C123B76B907}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FPlay" ID="{D910911F-F3BE-4F11-B6CF-B6F78C815587}">
+					<ChildrenList>
+						<Action Name="" ID="{465B01DB-CDC2-4E90-A863-33CFA66C107F}" ShortID="581073954">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Laser" ID="{A9F0F240-52A2-41BF-8108-4943CD8A989E}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="FIrePlay" ID="{D5EAD047-FCF2-414F-AB32-A89CA8C8C9DF}">
+					<ChildrenList>
+						<Action Name="" ID="{698C17B0-9C28-4A91-B2CE-63A416557DEA}" ShortID="735941935">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="FIREWhsh_Fire Whooshes Fireball Bys_PSE_GEN3_Mg3Pq" ID="{572AF4E1-56F0-47F8-A880-063A5642963D}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GruntPlay" ID="{BABE1B9E-06E3-43D1-951F-C0C04D1FFB5A}">
+					<ChildrenList>
+						<Action Name="" ID="{79269364-932C-4B7C-BEBD-4B8279F2AE68}" ShortID="1000891720">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Grunts" ID="{87A96225-E136-4FE5-A215-48D4867861CA}" WorkUnitID="{A084C6C4-1E2C-4AD9-A6C0-4506F83F65DC}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="GameMusicEvent" ID="{C7EF6CA1-3536-49CA-BAEA-7689A1DFF0B4}">
+					<ChildrenList>
+						<Action Name="" ID="{945F3F3F-4629-4950-8A7F-54A07AA1C3D1}" ShortID="1018895748">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MUSIC_PLAYLIST" ID="{D1D4CE04-14CA-4F3D-AB63-53760E085947}" WorkUnitID="{1176EDAD-BFC6-4A33-8422-7D7B0C81A679}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

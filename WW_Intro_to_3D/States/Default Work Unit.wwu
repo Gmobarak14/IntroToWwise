@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{B647916D-6ED5-44E0-BF1B-8400B1ADF5E4}" SchemaVersion="119">
+	<States>
+		<WorkUnit Name="Default Work Unit" ID="{B647916D-6ED5-44E0-BF1B-8400B1ADF5E4}" PersistMode="Standalone">
+			<ChildrenList>
+				<StateGroup Name="EnemyState" ID="{3FEA78D1-9B17-444B-9F4C-DCC54769BDAE}">
+					<ChildrenList>
+						<State Name="None" ID="{427EA3F2-5D48-468F-8043-7AB9C37808D3}"/>
+						<State Name="EnemyAlive" ID="{B9548955-FDFD-48DD-BA37-857AE1CDCF17}"/>
+						<State Name="EnemyDead" ID="{77275B94-ADD7-4370-A9D8-C9802E0A24D0}"/>
+					</ChildrenList>
+					<TransitionList>
+						<Transition>
+							<StartState Name="EnemyAlive" ID="{B9548955-FDFD-48DD-BA37-857AE1CDCF17}"/>
+							<EndState Name="EnemyDead" ID="{77275B94-ADD7-4370-A9D8-C9802E0A24D0}"/>
+							<Time>1</Time>
+							<IsShared>false</IsShared>
+						</Transition>
+					</TransitionList>
+				</StateGroup>
+			</ChildrenList>
+		</WorkUnit>
+	</States>
+</WwiseDocument>
